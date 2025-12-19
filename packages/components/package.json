@@ -1,7 +1,7 @@
 {
-    "name": "flowise-components",
+    "name": "kalyxi-flow-components",
     "version": "3.0.12",
-    "description": "Flowiseai Components",
+    "description": "Kalyxi Flow Components",
     "main": "dist/src/index",
     "types": "dist/src/index.d.ts",
     "scripts": {
@@ -14,10 +14,10 @@
         "test:coverage": "jest --coverage"
     },
     "keywords": [],
-    "homepage": "https://flowiseai.com",
+    "homepage": "https://kalyxi.ai",
     "author": {
-        "name": "Henry Heng",
-        "email": "henryheng@flowiseai.com"
+        "name": "Kalyxi",
+        "email": "support@kalyxi.ai"
     },
     "license": "SEE LICENSE IN LICENSE.md",
     "dependencies": {
