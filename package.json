@@ -4,11 +4,7 @@
     "private": true,
     "homepage": "https://kalyxi.ai",
     "workspaces": [
-        "packages/*",
-        "flowise",
-        "ui",
-        "components",
-        "api-documentation"
+        "packages/*"
     ],
     "scripts": {
         "build": "turbo run build",
