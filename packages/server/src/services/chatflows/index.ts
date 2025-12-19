@@ -1,4 +1,4 @@
-import { ICommonObject, removeFolderFromStorage } from 'flowise-components'
+import { ICommonObject, removeFolderFromStorage } from 'kalyxi-flow-components'
 import { StatusCodes } from 'http-status-codes'
 import { In } from 'typeorm'
 import { ChatflowType, IReactFlowObject } from '../../Interface'

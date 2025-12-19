@@ -12,7 +12,7 @@ import {
     IServerSideEventStreamer,
     convertChatHistoryToText,
     generateFollowUpPrompts
-} from 'flowise-components'
+} from 'kalyxi-flow-components'
 import {
     IncomingAgentflowInput,
     INodeData,

@@ -39,7 +39,7 @@ import {
     FlowiseMemory,
     IFileUpload,
     getS3Config
-} from 'flowise-components'
+} from 'kalyxi-flow-components'
 import { randomBytes } from 'crypto'
 import { AES, enc } from 'crypto-js'
 import multer from 'multer'

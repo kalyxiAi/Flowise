@@ -1,4 +1,4 @@
-import { isValidUUID } from 'flowise-components'
+import { isValidUUID } from 'kalyxi-flow-components'
 import chatflowsService from '../services/chatflows'
 import logger from './logger'
 

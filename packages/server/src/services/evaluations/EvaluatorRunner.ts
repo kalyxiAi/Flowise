@@ -1,5 +1,5 @@
 import evaluatorsService from '../evaluator'
-import { ICommonObject } from 'flowise-components'
+import { ICommonObject } from 'kalyxi-flow-components'
 
 interface EvaluatorReturnType {
     name: string
